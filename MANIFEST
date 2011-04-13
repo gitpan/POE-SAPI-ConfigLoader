@@ -1,0 +1,6 @@
+Changes
+Makefile.PL
+MANIFEST
+README
+t/POE-SAPI-ConfigLoader.t
+lib/POE/SAPI/ConfigLoader.pm
